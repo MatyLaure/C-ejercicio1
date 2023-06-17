@@ -1,0 +1,15 @@
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.csproj.AssemblyReference.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.AssemblyInfoInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.AssemblyInfo.cs
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.csproj.CoreCompileInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\bin\Debug\net6.0\Ejercicio 2 Obtener la hora.exe
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\bin\Debug\net6.0\Ejercicio 2 Obtener la hora.deps.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\bin\Debug\net6.0\Ejercicio 2 Obtener la hora.runtimeconfig.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\bin\Debug\net6.0\Ejercicio 2 Obtener la hora.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\bin\Debug\net6.0\Ejercicio 2 Obtener la hora.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\refint\Ejercicio 2 Obtener la hora.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\Ejercicio 2 Obtener la hora.genruntimeconfig.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 2 Obtener la hora\obj\Debug\net6.0\ref\Ejercicio 2 Obtener la hora.dll

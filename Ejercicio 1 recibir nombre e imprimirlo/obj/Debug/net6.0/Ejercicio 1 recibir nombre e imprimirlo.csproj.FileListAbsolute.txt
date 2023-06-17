@@ -1,0 +1,15 @@
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\bin\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.exe
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\bin\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.deps.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\bin\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.runtimeconfig.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\bin\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\bin\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.csproj.AssemblyReference.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.AssemblyInfoInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.AssemblyInfo.cs
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.csproj.CoreCompileInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\refint\Ejercicio 1 recibir nombre e imprimirlo.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\Ejercicio 1 recibir nombre e imprimirlo.genruntimeconfig.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 1 recibir nombre e imprimirlo\obj\Debug\net6.0\ref\Ejercicio 1 recibir nombre e imprimirlo.dll
